@@ -9,13 +9,21 @@ The purpose of this project was to analyze the data for a school district. They 
 * How is the district summary affected?  
   * Overall, it did not really change how the overally districty summary was changed, except that the overall passing percentage went down by less than one point, as evidenced in the screenshots below. 
 
+![School Summary Before Changes](Resources/Pictures/School_Summary_Before.png)
+
+![School Summary After Changes](Resources/Pictures/School_summary_after.png)
+
+
 * How is the school summary affected?  
   * None of the other schools were affected by replacing the THS 9th graders' data. 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?  
   * By replacing the ninth graders' math and reading scores we can see that the percentages for math, reading, and overall passing increased, which can be seen below. 
-  
-  Picture and picture 
-
+ 
+ 
+ ![THS Scores Before Changes](Resources/Pictures/THS_Before.png)
+ 
+ ![THS Scores After Changes](Resources/Pictures/THS_After.png)
+ 
 * How does replacing the ninth-grade scores affect the following:  
   * Math and reading scores by grade. 
     * This didn't affect any other schools' grades' math and reading scores. But it can be seen that the THS 9th graders' scores are removed. 
@@ -33,6 +41,7 @@ Summarize four major changes in the updated school district analysis after readi
 
 There were four major changes that after updating the THS ninth graders' scores. The first was that Thomas High School went from a low performing school to be amongest the top five performing schools. 
 
-[picture] 
+![Top Performing Schools](Resources/Pictures/Screen Shot 2020-12-13 at 7.35.15 PM.png)
+
 
 The second, third, and fourth changes were that the % of passing students in math, reading, and overall passing increased, as evidenced as above. 
