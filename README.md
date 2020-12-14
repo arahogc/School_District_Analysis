@@ -41,7 +41,7 @@ Summarize four major changes in the updated school district analysis after readi
 
 There were four major changes that after updating the THS ninth graders' scores. The first was that Thomas High School went from a low performing school to be amongest the top five performing schools. 
 
-![Top Performing Schools](Resources/Pictures/Screen Shot 2020-12-13 at 7.35.15 PM.png)
+![Top Performing Schools](Resources/Pictures/Top_Schools.png)
 
 
 The second, third, and fourth changes were that the % of passing students in math, reading, and overall passing increased, as evidenced as above. 
